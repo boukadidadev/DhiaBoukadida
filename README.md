@@ -7,11 +7,11 @@
 ---
 
 ## 🚀 What I do
-- 🤖 AI/ML: TensorFlow, Keras, OpenCV, DeepFace  
+- 🤖 AI/ML: TensorFlow, Keras, OpenCV, DeepFace, RAG  
 - 🔗 LLM Development: LangChain, OpenAI API  
-- ⚙️ Automation: n8n, Windmill, Zapier, Grist  
+- ⚙️ Automation: n8n, Windmill, Zapier, Grist, JSON  
 - 💻 Web Dev: React.js, Node.js, Express  
-- 🛠 Infrastructure: VMs, Teleport, server configuration  
+- 🛠 Infrastructure: VMs, Teleport, server configuration, Docker  
 - 🎨 UX/UI: Figma, Adobe  
 
 ---
@@ -30,13 +30,13 @@ Dashboards, workflows, and API integrations for real business use cases.
 ---
 
 ## 💼 Experience
-- **No-Code/Low-Code Intern — InnovQube (Paris)**  
+- **No-Code/Low-Code Intern — InnovQube (Paris, France)**  
   Automation with n8n, dashboards with Grist, API integrations.
 
-- **Web Developer Intern — Opus IT Consulting**  
+- **Web Developer Intern — Opus IT Consulting(Sousse, Tunisia)**  
   UI/UX prototypes, full-stack development, SEO optimization.
 
-- **President — ENET’Com Junior Entreprise**  
+- **President — ENET’Com Junior Entreprise(Sfax, Tunisia)**  
   Strategy, team management, Agile processes, international coordination.
 
 ---
