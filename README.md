@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhia Boukadida
 
-🎓 Engineering student in Computer Science *@ ENET'Com  
+🎓 Engineering student in Computer Science @ENET'Com  
 🤖 Focused on **AI, automation, and no-code/low-code tools**  
 ⚡ Passionate about building intelligent automation systems, LLM-powered apps, and user-centric digital tools.
 
